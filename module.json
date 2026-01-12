@@ -1,6 +1,6 @@
 {
 	"id": "translation-hun-core",
-	"title": "Translation HUN Core",
+	"title": "Core Translation HUN",
 	"version": "0.1.0",
 	"compatibility": {
 		"minimum": "13",
