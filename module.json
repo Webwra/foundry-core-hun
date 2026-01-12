@@ -1,0 +1,40 @@
+{
+	"id": "translation-hun-core",
+	"title": "Translation HUN Core",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "13",
+		"verified": "13"
+	},
+	"authors": [
+		{
+			"name": "Webwra",
+			"flags": {}
+		}
+	],
+	"flags": {
+		"canUpload": true
+	},
+	"languages": [
+		{
+			"lang": "en",
+			"name": "Hungarian",
+			"path": "lang/vampire-hu.json"
+		}
+	],
+	"relationships": {
+		"systems": [
+			{
+				"id": "vtm5e",
+				"type": "system",
+				"compatibility": {
+					"minimum": "5.0.0"
+				}
+			}
+		]
+	},
+	"url":"https://github.com/Webwra/foundry-core-hun",
+	"download": "https://github.com/Webwra/foundry-core-hun/releases/download/test/module.zip",
+	"manifest": "https://github.com/Webwra/foundry-core-wod-hun/releases/download/test/module.json",
+	"description": "Hungarian translation of Foundry VTT"
+}
