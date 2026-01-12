@@ -1,7 +1,7 @@
 {
 	"id": "translation-hun-core",
 	"title": "Translation HUN Core",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"compatibility": {
 		"minimum": "13",
 		"verified": "13"
@@ -34,7 +34,7 @@
 		]
 	},
 	"url":"https://github.com/Webwra/foundry-core-hun",
-	"download": "https://github.com/Webwra/foundry-core-hun/releases/download/test/module.zip",
-	"manifest": "https://github.com/Webwra/foundry-core-wod-hun/releases/download/test/module.json",
-	"description": "Hungarian translation of Foundry VTT"
+	"download": "https://github.com/Webwra/foundry-core-hun/releases/download/0.1.0/module.zip",
+	"manifest": "https://github.com/Webwra/foundry-core-hun/releases/download/0.1.0/module.json",
+	"description": "Hungarian translation of Foundry VTT, based on an old module from krisz.kern"
 }
